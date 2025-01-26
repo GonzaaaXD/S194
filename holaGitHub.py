@@ -1,1 +1,2 @@
-print("Hola GitHub")
+print("Hola GitHub") 
+print("Soy estrella")
